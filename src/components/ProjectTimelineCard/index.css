@@ -1,0 +1,42 @@
+.project-time-line-card {
+  width: 100%;
+}
+
+.project-image {
+  height: 30%;
+  width: 100%;
+}
+
+.title-duration-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-title {
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+.duration-container {
+  display: flex;
+  align-items: center;
+}
+
+.duration {
+  font-size: 14px;
+  margin-right: 3px;
+  color: #1e293b;
+  font-family: Roboto;
+}
+
+.calender-icon {
+  font-size: 14px;
+}
+
+.link {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16px;
+}

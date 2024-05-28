@@ -1,0 +1,48 @@
+.-course-timeline-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title-timeline-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+
+.timeline-container {
+  display: flex;
+  align-items: center;
+}
+
+.course-title {
+  font-size: 20px;
+  color: #171f46;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.clock-icon {
+  font-size: 14px;
+  margin-right: 2px;
+}
+
+.duration {
+  font-size: 14px;
+  color: #1e293b;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 14px;
+  font-family: Roboto;
+  font-family: Roboto;
+  font-weight: normal;
+}
+
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+}

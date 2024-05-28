@@ -1,0 +1,17 @@
+.tag-container {
+  border-radius: 5px;
+  background-color: #c7c7c7;
+  margin: 4px;
+  padding: 0px;
+  width: 100px;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.tag-name {
+  font-size: 10px;
+  font-family: Roboto;
+  color: #1e293b;
+  font-weight: bold;
+}
